@@ -1,3 +1,8 @@
+Небольшой счётчик показывает работу Redux 
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////
+
 This is the easiest counter. Redux technology
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
